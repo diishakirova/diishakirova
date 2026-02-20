@@ -18,4 +18,4 @@
 
 ## 📫 Связаться со мной
 Email: dinara.shakirova.2012@mail.ru  
-Telegram: https://t.me/iddiishakirova
+Telegram: https://t.me/diishakirova
