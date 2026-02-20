@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! Я Динара 👋  
+**Data Analyst**
 
-<!--
-**diishakirova/diishakirova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Работала в «Яндексе» в финансовом отделе  
+👩‍🎓 В 2025 году прошла курс «BI-аналитик» в Яндекс Практикуме  
 
-Here are some ideas to get you started:
+Ищу работу аналитика данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Набор инструментов:
+- Python  
+- SQL  
+- DataLens  
+- Superset
+  
+---
+
+## 📫 Связаться со мной
+Email: dinara.shakirova.2012@mail.ru  
+Telegram: https://t.me/iddiishakirova
