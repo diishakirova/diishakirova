@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Инструменты
+##  Инструменты
 - SQL
 - Python (pandas, matplotlib)
 - Superset
