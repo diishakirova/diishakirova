@@ -1,5 +1,7 @@
 # Привет! Я Динара 👋
 **Data Analyst | BI Analyst**
+
+
 SQL • Python • Superset • DataLens • Product Analytics
 
 Аналитик данных с фокусом на продуктовую и BI-аналитику.
